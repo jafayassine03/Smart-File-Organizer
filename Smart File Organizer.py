@@ -3,6 +3,7 @@ import shutil
 import hashlib
 import json
 from datetime import datetime
+
 history_file = "organizer_history.json"
 
 categories = {
